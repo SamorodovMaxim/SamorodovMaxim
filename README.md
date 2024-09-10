@@ -9,11 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=40&pause=1000&color=FFD800&center=true&vCenter=true&width=440&lines=Hello+traveler+%5E_%5E;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;Glad+to+see+you+on+my+page!+;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;I+wish+you+a+good+day+%3A3;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+)](https://git.io/typing-svg)
 </div>
 
-<audio loop="loop">
-  <audio>
- <source src="https://youtu.be/PuHE_GRzT5Q?si=ozJPJ8AXkgNVre1D">
-</audio>
-
 <div align="center">
   <hr>
   
