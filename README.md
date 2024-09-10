@@ -1,16 +1,17 @@
-## Hi there 👋
+<div id="header" align="center">
+  
+  <img src="https://media.giphy.com/media/SQwF8iLrL0oKx6gpDq/giphy.gif"/>
+  
+</div>
 
-<!--
-**SamorodovMaxim/SamorodovMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=40&pause=1000&color=00902E&center=true&vCenter=true&width=440&lines=Hello+traveler+%5E_%5E;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;Glad+to+see+you+on+my+page!+;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;I+wish+you+a+good+day+%3A3;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+)](https://git.io/typing-svg)
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on AltGU
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <hr>
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+  </hr>
+</div>
