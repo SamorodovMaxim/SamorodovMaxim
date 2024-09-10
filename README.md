@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media1.tenor.com/m/kHuPaxzpE1AAAAAC/undertale-yellow-clover.gif"/>
+  <img src="https://i.pinimg.com/originals/83/95/ef/8395ef4ebfd10b2e4a32a1f2dd6851f3.gif"/>
   
 </div>
 
