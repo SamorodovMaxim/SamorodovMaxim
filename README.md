@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://i.pinimg.com/originals/83/95/ef/8395ef4ebfd10b2e4a32a1f2dd6851f3.gif"/>
+  <img src="https://psv4.userapi.com/c909328/u230616884/docs/d38/58fae104f322/Risunok_5_8.gif"/>
   <audio controls>
  <source src="vigorous_terrain.ogg" type="audio/ogg">
 </audio>
